@@ -1,0 +1,683 @@
+100000
+三体
+刘慈欣
+科幻
+外星文明
+地球往事三部曲第一部，讲述人类与三体文明的首次接触
+3
+10000000 0 2000001
+10000001 1 0
+10000002 1 0
+100001
+活着
+余华
+文学
+人生苦难
+讲述内战到文革时期普通人的生存挣扎
+3
+10000100 1 0
+10000101 1 0
+10000102 1 0
+100002
+百年孤独
+加西亚·马尔克斯
+魔幻现实主义
+家族史诗
+布恩迪亚家族七代人的传奇故事
+3
+10000200 1 0
+10000201 1 0
+10000202 1 0
+100003
+小王子
+安托万·德·圣埃克苏佩里
+童话
+哲理寓言
+飞行员与外星小王子的奇幻相遇
+3
+10000300 0 2000004
+10000301 1 0
+10000302 1 0
+100004
+人类简史
+尤瓦尔·赫拉利
+历史
+人类进化
+从动物到上帝的10万年历程
+3
+10000400 1 0
+10000401 1 0
+10000402 1 0
+100005
+时间简史
+史蒂芬·霍金
+科普
+宇宙物理
+探索宇宙起源与黑洞奥秘
+3
+10000500 1 0
+10000501 0 2000001
+10000502 1 0
+100006
+1984
+乔治·奥威尔
+反乌托邦
+极权社会
+描绘受监控的极权主义世界
+3
+10000600 1 0
+10000601 1 0
+10000602 1 0
+100007
+三体II：黑暗森林
+刘慈欣
+科幻
+宇宙社会学
+揭示宇宙文明间的黑暗森林法则
+3
+10000700 1 0
+10000701 1 0
+10000702 1 0
+100008
+平凡的世界
+路遥
+现实主义
+农村变革
+改革开放前后陕北农村的变迁史
+3
+10000800 1 0
+10000801 1 0
+10000802 1 0
+100009
+围城
+钱钟书
+讽刺文学
+婚姻困境
+知识分子的爱情与婚姻困境
+3
+10000900 1 0
+10000901 1 0
+10000902 1 0
+100010
+The Great Gatsby
+F. Scott Fitzgerald
+Classic
+American Dream
+A story of wealth, love, and the American Dream in the 1920s
+5
+10001000 1 0
+10001001 1 0
+10001002 1 0
+10001003 1 0
+10001004 1 0
+100011
+深入理解计算机系统
+Randal E. Bryant
+计算机科学
+系统编程
+从程序员视角讲解计算机系统工作原理
+3
+10001100 1 0
+10001101 1 0
+10001102 1 0
+100012
+Effective Java
+Joshua Bloch
+编程
+最佳实践
+Java开发实践指南与高效编程技巧
+7
+10001200 0 2000013
+10001201 1 0
+10001202 1 0
+10001203 1 0
+10001204 1 0
+10001205 1 0
+10001206 1 0
+100013
+Design Patterns
+Erich Gamma
+软件开发
+架构设计
+23种经典软件设计模式解析
+4
+10001300 1 0
+10001301 1 0
+10001302 1 0
+10001303 1 0
+100014
+白夜行
+东野圭吾
+悬疑小说
+社会派推理
+绝望爱情与残酷命运交织的悬疑杰作
+6
+10001400 1 0
+10001401 1 0
+10001402 1 0
+10001403 1 0
+10001404 1 0
+10001405 1 0
+100015
+Clean Architecture
+Robert C. Martin
+软件工程
+架构设计
+构建可维护软件系统的架构原则
+2
+10001500 0 2000016
+10001501 1 0
+100016
+Python深度学习
+Fran?ois Chollet
+人工智能
+神经网络
+使用Python和Keras实践深度学习
+8
+10001600 1 0
+10001601 1 0
+10001602 1 0
+10001603 1 0
+10001604 1 0
+10001605 1 0
+10001606 1 0
+10001607 1 0
+100017
+解忧杂货店
+东野圭吾
+治愈小说
+时间穿越
+连接过去与未来的温情物语
+5
+10001700 1 0
+10001701 1 0
+10001702 0 2000013
+10001703 1 0
+10001704 1 0
+100018
+Introduction to Algorithms
+Thomas H. Cormen
+计算机科学
+算法设计
+经典算法教材与实现指南
+4
+10001800 0 2000019
+10001801 1 0
+10001802 0 2000014
+10001803 1 0
+100019
+云边有个小卖部
+张嘉佳
+青春文学
+成长故事
+温暖治愈的成长与亲情故事
+3
+10001900 1 0
+10001901 1 0
+10001902 0 2000015
+100020
+沉默的大多数
+王小波
+杂文
+思想启蒙
+中国知识分子独立思考的经典之作
+4
+10002000 1 0
+10002001 0 2000003
+10002002 1 0
+10002003 1 0
+100021
+Atomic Habits
+James Clear
+心理学
+习惯养成
+微小改变带来显著成果的行为科学
+6
+10002100 1 0
+10002101 1 0
+10002102 1 0
+10002103 1 0
+10002104 1 0
+10002105 1 0
+100022
+明朝那些事儿
+当年明月
+历史通俗
+明史演义
+幽默讲述明朝三百年兴衰史
+8
+10002200 1 0
+10002201 1 0
+10002202 1 0
+10002203 1 0
+10002204 1 0
+10002205 1 0
+10002206 1 0
+10002207 1 0
+100023
+The Lean Startup
+Eric Ries
+商业
+创业方法论
+用精益思维指导创业的实践指南
+3
+10002300 1 0
+10002301 1 0
+10002302 1 0
+100024
+追风筝的人
+卡勒德·胡赛尼
+外国文学
+救赎
+阿富汗背景下的友情与救赎故事
+5
+10002400 1 0
+10002401 1 0
+10002402 1 0
+10002403 1 0
+10002404 1 0
+100025
+JavaScript高级程序设计
+Nicholas C. Zakas
+前端开发
+Web开发
+前端开发者必读的JS权威指南
+7
+10002500 1 0
+10002501 1 0
+10002502 1 0
+10002503 1 0
+10002504 1 0
+10002505 1 0
+10002506 1 0
+100026
+局外人
+阿尔贝·加缪
+存在主义
+荒诞哲学
+"在母亲葬礼上没哭"的荒诞审判
+2
+10002600 1 0
+10002601 1 0
+100027
+Sapiens
+Yuval Noah Harari
+人类学
+认知革命
+从动物到智人的人类发展简史
+6
+10002700 1 0
+10002701 1 0
+10002702 1 0
+10002703 1 0
+10002704 1 0
+10002705 1 0
+100028
+活着为了讲述
+加西亚·马尔克斯
+传记
+文学人生
+《百年孤独》作者的自传回忆录
+4
+10002800 1 0
+10002801 1 0
+10002802 1 0
+10002803 1 0
+100029
+深度学习
+Ian Goodfellow
+人工智能
+机器学习
+深度学习领域的奠基性教材
+3
+10002900 1 0
+10002901 1 0
+10002902 1 0
+100030
+撒哈拉的故事
+三毛
+旅行文学
+沙漠生活
+三毛与荷西在西属撒哈拉的生活纪实
+5
+10003000 1 0
+10003001 0 2000021
+10003002 1 0
+10003003 1 0
+10003004 1 0
+100031
+C++ Primer
+Stanley B. Lippman
+编程语言
+C++学习
+C++语言最权威的入门教程
+8
+10003100 1 0
+10003101 0 2000022
+10003102 1 0
+10003103 1 0
+10003104 1 0
+10003105 1 0
+10003106 1 0
+10003107 1 0
+100032
+恶意
+东野圭吾
+推理小说
+人性黑暗
+颠覆传统推理模式的巅峰之作
+4
+10003200 1 0
+10003201 0 2000023
+10003202 1 0
+10003203 1 0
+100033
+The Phoenix Project
+Gene Kim
+DevOps
+IT管理
+IT运维转型的寓言式小说
+3
+10003300 1 0
+10003301 0 2000024
+10003302 1 0
+100034
+乡土中国
+费孝通
+社会学
+农村结构
+解读中国基层传统社会的经典
+2
+10003400 1 0
+10003401 0 2000025
+100035
+黑客与画家
+Paul Graham
+计算机
+创业思维
+硅谷创业教父的编程与商业思考
+5
+10003500 1 0
+10003501 0 2000026
+10003502 1 0
+10003503 1 0
+10003504 1 0
+100036
+挪威的森林
+村上春树
+青春文学
+孤独成长
+都市青年的爱情与自我救赎
+7
+10003600 1 0
+10003601 0 2000027
+10003602 1 0
+10003603 1 0
+10003604 1 0
+10003605 1 0
+10003606 1 0
+100037
+代码整洁之道
+Robert C. Martin
+软件工程
+代码质量
+编写可维护代码的实践手册
+4
+10003700 1 0
+10003701 0 2000028
+10003702 1 0
+10003703 1 0
+100038
+人类群星闪耀时
+斯蒂芬·茨威格
+历史传记
+关键时刻
+改变人类历史的14个瞬间
+3
+10003800 1 0
+10003801 0 2000029
+10003802 1 0
+100039
+React设计原理
+卡颂
+前端框架
+源码解析
+深入React架构设计与实现原理
+6
+10003900 1 0
+10003901 0 2000021
+10003902 1 0
+10003903 1 0
+10003904 1 0
+10003905 1 0
+100040
+React进阶实践
+李雷
+前端开发
+React,进阶,实践
+本书深入探讨了React的高级特性和最佳实践，帮助读者提升React开发技能。
+5
+10004000 1 0
+10004001 1 0
+10004002 1 0
+10004003 1 0
+10004004 1 0
+100041
+Vue.js从入门到精通
+韩梅梅
+前端开发
+Vue.js,入门,精通
+全面介绍Vue.js框架，从基础语法到高级应用，适合所有前端开发者。
+4
+10004100 1 0
+10004101 1 0
+10004102 1 0
+10004103 1 0
+100042
+Node.js实战
+张伟
+后端开发
+Node.js,实战,案例
+通过实际案例介绍Node.js的应用，帮助读者快速掌握Node.js开发技巧。
+3
+10004200 1 0
+10004201 1 0
+10004202 1 0
+100043
+Python数据分析
+王丽
+数据分析
+Python,数据分析,机器学习
+详细介绍如何使用Python进行数据分析，包括数据处理、可视化及机器学习基础。
+5
+10004300 1 0
+10004301 1 0
+10004302 1 0
+10004303 1 0
+10004304 1 0
+100044
+Java核心技术
+刘洋
+后端开发
+Java,核心,技术
+全面讲解Java核心技术，包括面向对象编程、集合框架、多线程等。
+4
+10004400 1 0
+10004401 1 0
+10004402 1 0
+10004403 1 0
+100045
+前端性能优化
+陈晨
+前端开发
+前端,性能,优化
+探讨前端性能优化的各种技巧，提升网站和应用程序的速度和用户体验。
+3
+10004500 1 0
+10004501 1 0
+10004502 1 0
+100046
+深度学习入门
+李明
+人工智能
+深度学习,入门,神经网络
+通俗易懂地介绍深度学习的基本概念和神经网络，适合初学者入门。
+5
+10004600 1 0
+10004601 1 0
+10004602 1 0
+10004603 1 0
+10004604 1 0
+100047
+数据库原理与实践
+王芳
+数据库
+数据库,原理,实践
+系统讲解数据库的基本原理和实际应用，包括SQL语言、数据库设计和优化。
+4
+10004700 1 0
+10004701 1 0
+10004702 1 0
+10004703 1 0
+100048
+网络安全基础
+赵磊
+网络安全
+网络,安全,基础
+介绍网络安全的基本概念、技术和工具，帮助读者建立网络安全意识。
+3
+10004800 1 0
+10004801 1 0
+10004802 1 0
+100049
+软件工程导论
+孙艳
+软件工程
+软件,工程,导论
+概述软件工程的基本原理和方法，适合软件工程专业的学生和从业者。
+5
+10004900 1 0
+10004901 1 0
+10004902 1 0
+10004903 1 0
+10004904 1 0
+100050
+Moby-Dick
+Herman Melville
+Adventure, Classic
+Whaling, Obsession, Revenge
+A sailor named Ishmael narrates the monomaniacal quest of Ahab, captain of the whaler Pequod, for revenge on Moby Dick, the white whale that maimed him.
+5
+10005000 1 0
+10005001 1 0
+10005002 1 0
+10005003 1 0
+10005004 1 0
+100051
+War and Peace
+Leo Tolstoy
+Historical Fiction, Classic
+Napoleonic Wars, Russian Society, Philosophy
+This epic novel chronicles the lives of Russian aristocrats during the Napoleonic Wars, exploring themes of love, war, and personal and national identity.
+5
+10005100 1 0
+10005101 1 0
+10005102 1 0
+10005103 1 0
+10005104 1 0
+100052
+The Great Gatsby
+F. Scott Fitzgerald
+Classic, Drama
+The American Dream, Wealth, Corruption
+Set in the Jazz Age, this novel tells the story of Jay Gatsby’s quest for the love of Daisy Buchanan, exploring themes of wealth, corruption, and the decline of the American Dream.
+5
+10005200 1 0
+10005201 1 0
+10005202 1 0
+10005203 1 0
+10005204 1 0
+100053
+One Hundred Years of Solitude
+Gabriel García Márquez
+Magic Realism, Classic
+Family, History, Myth
+A multi-generational story of the Buendía family in the fictional town of Macondo, blending reality and fantasy to explore themes of history, family, and destiny.
+5
+10005300 1 0
+10005301 1 0
+10005302 1 0
+10005303 1 0
+10005304 1 0
+100054
+Brave New World
+Aldous Huxley
+Dystopian, Science Fiction
+Totalitarianism, Technology, Humanity
+A futuristic society where humanity is controlled through technology and conditioning, explores the loss of individuality and freedom.
+5
+10005400 1 0
+10005401 1 0
+10005402 1 0
+10005403 1 0
+10005404 1 0
+100055
+1984
+George Orwell
+Dystopian, Classic
+Totalitarianism, Surveillance, Propaganda
+A dystopian novel that explores the dangers of totalitarianism, surveillance, and propaganda in a future society where individuality and freedom are suppressed.
+5
+10005500 1 0
+10005501 1 0
+10005502 1 0
+10005503 1 0
+10005504 1 0
+100056
+The Catcher in the Rye
+J.D. Salinger
+Classic, Coming-of-Age
+Adolescence, Alienation, Identity
+The story of Holden Caulfield, a teenager struggling with adulthood and the phoniness of the world around him, exploring themes of adolescence and alienation.
+5
+10005600 1 0
+10005601 1 0
+10005602 1 0
+10005603 1 0
+10005604 1 0
+100057
+Crime and Punishment
+Fyodor Dostoevsky
+Psychological Fiction, Classic
+Crime, Justice, Psychology
+A profound psychological novel that explores the nature of crime and punishment, delving into the complexities of human nature and the search for truth.
+5
+10005700 1 0
+10005701 1 0
+10005702 1 0
+10005703 1 0
+10005704 1 0
+100058
+The Odyssey
+Homer
+Epic Poetry, Classic
+Adventure, Heroism, Homecoming
+An epic poem recounting the journey of Odysseus back to his homeland after the Trojan War, facing numerous challenges and adventures along the way.
+5
+10005800 1 0
+10005801 1 0
+10005802 1 0
+10005803 1 0
+10005804 1 0
+100059
+Pride and Prejudice
+Jane Austen
+Classic Literature, Romance
+Love, Class, Morality
+A romantic novel that tells the story of Elizabeth Bennet and her relationship with the proud Mr. Darcy, exploring themes of love, class, and morality in 19th-century England.
+5
+10005900 1 0
+10005901 1 0
+10005902 1 0
+10005903 1 0
+10005904 1 0
